@@ -18,4 +18,4 @@ The key strategy is implemented in Agent 2, which uses a learning approach to dy
 | File Name | Description |
 | :--- | :--- |
 | **`bidding_agents.py`** | Implementation of Agent 1 (static $v/2.5$) and the core **Agent 2 (EMA-based dynamic bid)**. |
-| **`methodology_report.pdf`** | Detailed report on the strategy, including the **EMA justification** and adaptation for GSP auctions. |
+| **`methodology_report.pdf`** | Detailed report on the strategy. |
